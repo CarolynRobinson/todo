@@ -1,1 +1,1 @@
-console.log("todo")
+ let name = prompt("what is your name?")
